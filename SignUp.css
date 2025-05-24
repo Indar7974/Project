@@ -1,0 +1,24 @@
+.india{
+    border: 1px solid white;
+    box-shadow: 0px 0px 10px black;
+    width: 550px;
+    bottom: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 32%;
+    border-radius: 20px;
+    background-color: white;
+}
+
+select{
+    width: 85%;
+}
+
+
+.error{
+    color: red;
+    font-weight: bold;
+    font-size: 13px;
+}
